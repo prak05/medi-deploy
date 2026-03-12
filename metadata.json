@@ -1,0 +1,8 @@
+{
+  "name": "Searchy Gooper: MD Assistant",
+  "description": "A comprehensive medical assistant for doctors featuring Journal and Patient modes, AI-powered RAG search, digital whiteboarding, and speech-to-text integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
